@@ -5,4 +5,4 @@ This is a "maze" solver which utlizes the Breath First Search algorithm and visu
 ![Screenshot](https://gyazo.com/97e8e94373bffb9d78f591c79da34645.png)
 
 
-**What is Breadth First Search?**
+# What is Breadth First Search?
