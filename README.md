@@ -1,2 +1,2 @@
-# Breadth-First-Search-with-3D-Maze
-This is a maze generator and solver. It generates a random 3D maze, uses Java to solve it and PJava to visualize it. This is my first actual project in Java so please excuse any redundancies in my code. If you are viewing this right now, it means I have not yet pushed the files onto the repo. Come back in 3 days.
+# Breadth-First-Search-with-3D-Visualizer
+This is a "maze" solver which utlizes the Breath First Search algorithm and visualizes it in a 3D setting. This program is programed in Java and visualized in pjava (Processing). This is my first actual project in Java so please excuse any redundancies in my code. Due to time restraints, the maze has no obstacles within it so the path to the solution is fairly predictable. 
