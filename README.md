@@ -3,3 +3,6 @@ This is a "maze" solver which utlizes the Breath First Search algorithm and visu
 
 ![Screenshot](https://i.gyazo.com/f2ab9d7c5a4f7b89d7625d6b52f629d2.png)
 ![Screenshot](https://gyazo.com/97e8e94373bffb9d78f591c79da34645.png)
+
+
+**What is Breadth First Search?**
