@@ -9,4 +9,3 @@ This is a "maze" solver which utilizes the Breadth-First Search algorithm and vi
 Breadth-first search is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root and explores all of the neighbor nodes at the present depth before moving on to the nodes at the next depth level. This is represented by the images above. As you can see, the program stops when it reaches the target (blue) and all the visited nodes are marked green.
 
 
-Я буду передать на русском потом. Сейчас у меня 1:52 на утром.
